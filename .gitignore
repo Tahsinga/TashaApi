@@ -1,3 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+*.swp
+
+# Uploads
+uploads/
 venv/
 uploads/
 __pycache__/
